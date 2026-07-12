@@ -1,0 +1,44 @@
+[03:00:58] ENCRYPT
+Input: hello world
+Output: khoor zruog
+
+[03:01:02] DECRYPT
+Input: hello world
+Output: ebiil tloia
+
+[03:06:45] ENCRYPT
+Source: INPUT
+Input: hello world
+Output: khoor zruog
+----------------------------------------
+
+[03:06:55] DECRYPT
+Source: OUTPUT
+Input: khoor zruog
+Output: hello world
+----------------------------------------
+
+[03:09:50] ENCRYPT
+Source: INPUT
+Input: hello world
+Output: khoor zruog
+----------------------------------------
+
+[03:09:56] DECRYPT
+Source: OUTPUT
+Input: khoor zruog
+Output: hello world
+----------------------------------------
+
+[03:10:02] ENCRYPT
+Source: INPUT
+Input: hello world
+Output: khoor zruog
+----------------------------------------
+
+[03:10:04] DECRYPT
+Source: INPUT
+Input: hello world
+Output: ebiil tloia
+----------------------------------------
+
